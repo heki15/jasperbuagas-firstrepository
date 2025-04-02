@@ -6,7 +6,7 @@
 
 
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="569.0" prefWidth="353.0" style="-fx-background-color: pink;" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1">
-   <children>
+
       <TextField layoutX="20.0" layoutY="237.0" prefHeight="25.0" prefWidth="314.0" promptText="Username" />
       <PasswordField layoutX="20.0" layoutY="272.0" prefHeight="25.0" prefWidth="314.0" promptText="Password" />
       <Button layoutX="136.0" layoutY="333.0" mnemonicParsing="false" prefHeight="23.0" prefWidth="82.0" style="-fx-background-color: brown;" text="Login" textFill="WHITE" />
@@ -21,5 +21,5 @@
             <Font name="Bell MT" size="24.0" />
          </font>
       </Text>
-   </children>
+
 </AnchorPane>
